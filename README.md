@@ -20,7 +20,9 @@ The feture:
 How to use vipui?
 
 you shold download it or use the flow:
+
 cd your project dir
+
 npm install vipui
 
 and then import vipui:
